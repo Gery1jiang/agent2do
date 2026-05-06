@@ -1,0 +1,8 @@
+- [x] Checkpoint 1: Playwright依赖安装成功
+- [x] Checkpoint 2: Chromium浏览器下载完成 (使用本地Chrome)
+- [x] Checkpoint 3: requirements.txt已添加playwright依赖
+- [x] Checkpoint 4: 03_browser_agent目录创建成功
+- [x] Checkpoint 5: agent.py文件创建成功且语法正确
+- [ ] Checkpoint 6: 浏览器Agent能够成功导航到指定URL
+- [ ] Checkpoint 7: 浏览器Agent能够提取页面文本内容
+- [ ] Checkpoint 8: 浏览器Agent能够完成多步骤任务
